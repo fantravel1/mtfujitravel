@@ -1,0 +1,11 @@
+# MtFujiTravel.com Robots.txt
+# https://mtfujitravel.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mtfujitravel.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
