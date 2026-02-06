@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Mount Fuji silhouette -->
+  <path d="M24 4L4 40h40L24 4z" fill="#1a365d"/>
+  <!-- Snow cap -->
+  <path d="M24 4L14 24h20L24 4z" fill="#ffffff"/>
+  <!-- Rising sun -->
+  <circle cx="36" cy="12" r="4" fill="#dc2626"/>
+</svg>
